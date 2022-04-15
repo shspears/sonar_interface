@@ -1,0 +1,12 @@
+#std_msgs/Header header
+
+#Frequency modes
+#0 = LF only
+#1 = HF only
+#2 = LF and Bathy
+#3 = LF, HF, and Bathy 
+
+
+int8 freq_mode
+---
+bool success 
